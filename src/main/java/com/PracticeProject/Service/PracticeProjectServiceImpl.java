@@ -12,7 +12,7 @@ List<PracticeProject_Model> list;
 
 	public PracticeProjectServiceImpl() {
 	list=new ArrayList<>();
-	list.add(new PracticeProject_Model(1,"Srika","Hyderabad"));
+	list.add(new PracticeProject_Model(1,"venky","Hyderabad"));
 	list.add(new PracticeProject_Model(2,"Udaika","India"));
 	list.add(new PracticeProject_Model(3,"sreenisha","Hyderabad"));
 	list.add(new PracticeProject_Model(4,"Pruthvi","Kadapa"));
